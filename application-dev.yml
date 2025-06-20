@@ -1,5 +1,5 @@
 spring:
   data:
     mongodb:
-      uri: mongodb://localhost:27017/ajit
+      uri: mongodb://localhost:27017/kfs-service
 

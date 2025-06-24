@@ -3,6 +3,6 @@ spring:
     mongodb:
       uri: ""
 bean:
-  dynamicName: my-dynamic-service2
+  dynamicName: my-dynamic-service3
 
 

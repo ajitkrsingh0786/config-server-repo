@@ -3,4 +3,5 @@ server:
 spring:
   security:
     enabled: true
+event-type-list:{"MobileOTPVerification":{"name":"MobileOTPVerification","enabled":true,"notifyCustomer":true,"notificationChannel":[{"smsNotificationService":{"templateId":"1234","enabled":true}},{"emailNotificationService":{"templateId":"4321","enabled":true}}],"archivalTTL":5},"EmailOTPVerification":{"name":"EmailOTPVerification","enabled":true,"notifyCustomer":true,"notificationChannel":[{"smsNotificationService":{"templateId":"1234","enabled":true}},{"emailNotificationService":{"templateId":"4321","enabled":true}}],"archivalTTL":5},"kfsEvent":{"name":"kfsEvent","enabled":true,"notifyCustomer":false,"notificationChannel":[{"smsNotificationService":{"templateId":"1234","enabled":false}},{"emailNotificationService":{"templateId":"4321","enabled":false}}],"archivalTTL":5}}
      

@@ -1,5 +1,5 @@
 server:
-  port: 8122
+  port: 8123
 spring:
   security:
     enabled: true

@@ -3,7 +3,7 @@ server:
 
 spring:
   security:
-    enabled: true
+    enabled: false
     
 kafka:
   topic:

@@ -4,6 +4,7 @@ server:
 spring:
   security:
     enabled: true
+    
 kafka:
   topic:
     config-update: config-server-update

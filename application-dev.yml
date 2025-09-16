@@ -1,7 +1,7 @@
 spring:
   data:
     mongodb:
-      uri: "{cipher}eeadf7f0b363cb368de59ed0638b7ac126774b3d0ea24cce376e2f12a54292ff699e4c5c98107fe1f21b34bfb074ae02"
+      uri: "{cipher}999b97f0aeda746e75ceea0196e65b6cc9eaa52c78c4a7c49e9db651f47c0d563f047539974017b830412015e564a1a9"
 bean:
   dynamicName: my-dynamic-service
 kafka:

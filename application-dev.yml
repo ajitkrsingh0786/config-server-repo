@@ -3,7 +3,7 @@ spring:
     mongodb:
       uri: "{cipher}999b97f0aeda746e75ceea0196e65b6cc9eaa52c78c4a7c49e9db651f47c0d563f047539974017b830412015e564a1a9"
 bean:
-  dynamicName: my-dynamic-service1
+  dynamicName: "30573c86b85a4bfe89f47ba6f7436cc362363e48ba7b7ccb89baf1be0b52570ad4e04cdce9856788e80c37cf129de906"
 kafka:
   topic:
     config-update: config-server-update
